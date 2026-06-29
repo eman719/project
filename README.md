@@ -42,5 +42,5 @@ In future projects, I plan to improve my CSS layout skills, explore CSS Grid in 
 
 ## Author
 
-* Frontend Mentor - https://www.frontendmentor.io/profile/YOUR_USERNAME
-* GitHub - https://github.com/YOUR_GITHUB_USERNAME
+* Frontend Mentor - https://www.frontendmentor.io/profile/eman719
+* GitHub - https://github.com/eman719
